@@ -1,0 +1,14 @@
+
+.firstbackground    {
+    background-color: rgb(211, 230, 247);
+}
+
+.second {
+    background-color: rgb(189, 242, 224);
+}
+.feature-icon {
+    width: 4rem;
+    height: 4rem;
+    border-radius: 0.75rem;
+    }
+
